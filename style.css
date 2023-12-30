@@ -241,7 +241,9 @@
     border-bottom-right-radius: 2rem;
     align-items: center;
 }
-
+.search-btn4:hover{
+    background-color: #c6c1c1;
+}
 .content4{
     cursor: pointer;
     margin-top: 35px;
